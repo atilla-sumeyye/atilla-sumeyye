@@ -1,7 +1,5 @@
 Hi there 
 
-<!-- Terminal Görünümlü Hakkımda Kısmı -->
-
 > whoami
 Bilgisayar Mühendisliği Öğrencisi
 
