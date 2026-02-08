@@ -24,7 +24,6 @@ uçtan uca kullanıcı deneyimi sunan uygulamalar inşa etmek."
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
 🚀 Projelerim
 
 1. DermaPharma IMS
