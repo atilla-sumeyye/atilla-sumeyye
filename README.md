@@ -59,5 +59,5 @@ Modern yazılım dağıtım süreçlerini simüle eden, otomatikleştirilmiş bu
 <!-- Ziyaretçi Sayacı (Pembe Tema) -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[atilla-sumeyye]&style=flat-square&color=ff69b4&label=PROFILE+VIEWS" alt="Profil Ziyaretçileri" />
+<img src="https://komarev.com/ghpvc/?username=atilla-sumeyye&style=flat-square&color=ff69b4&label=PROFILE+VIEWS" alt="Profil Ziyaretçileri" />
 </p>
